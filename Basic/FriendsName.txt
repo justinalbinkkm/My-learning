@@ -1,0 +1,15 @@
+class FriendsName
+
+	{
+		public static void main (String arg[])
+		{
+			String s1="Rajesh",s2="Jayesh",s3="Rahul",s4="Arun";
+			System.out.println("Friends details");
+			System.out.println("__________________________________");
+			System.out.println("My first friend is " +s4);
+			System.out.println("My second friend is " +s2);
+			System.out.println("My third friend is " +s3,+s1 );
+			
+
+		}
+	}
